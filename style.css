@@ -1,0 +1,24 @@
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+    border: 5px dashed black;
+    border-radius: 5px;
+}
+
+.footer
+{
+    width: 100%;
+    background-color: rgb(76, 0, 255);
+    position: fixed;
+    bottom: 0px;
+}
+
+#Instructions
+{
+    float: right;
+    display: inline-block;  
+}
